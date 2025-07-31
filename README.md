@@ -31,4 +31,24 @@ A dynamic and customizable **Portfolio Generator** built with **React + TypeScri
 - ☁️ Fully localStorage-powered (no backend)
 - 📱 Responsive Design
 
-![Template](./screenshots/template-selection.png)
+
+/portfolio-generator/screenshots/
+
+## 📸 Screenshots
+
+### 🟥 Template Selection
+![Template Selection](screenshots/Template-selection.png)
+
+### 🟥 Multi-section Form
+![Form Step 1](screenshots/Form1.png)
+![Form Step 2](screenshots/Form2.png)
+![Form Step 3](screenshots/Form3.png)
+![Form Step 4](screenshots/form4.png)
+
+### 🟥 Profiles Page
+![Profile Cards](screenshots/Cards.png)
+
+### 🟥 Portfolio Detail View
+![Portfolio ID View](screenshots/id.png)
+![Skills Section](screenshots/id-skills.png)
+![Services Section](screenshots/id-service.png)
